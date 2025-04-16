@@ -1,0 +1,1 @@
+import{c as r,a as t,j as u,t as n,u as s,o as i}from"./index-41JFHv3N.js";const c=Object.assign({name:"MyComponent"},{__name:"index",setup(l){const{x:o,y:a}=void 0;return(p,e)=>(i(),r("div",null,[e[0]||(e[0]=t("h1",null,"什么是“组合式函数”？",-1)),e[1]||(e[1]=t("p",null,"常见需求：组合式 API 来封装和复用有状态逻辑的函数。",-1)),u(" Mouse position is at: "+n(s(o))+", "+n(s(a)),1)]))}});export{c as default};

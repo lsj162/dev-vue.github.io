@@ -1,0 +1,1 @@
+import{c as n,a as t,o as s}from"./index-41JFHv3N.js";const r=Object.assign({name:"MyComponent"},{__name:"index",setup(a){return(l,e)=>(s(),n("div",null,e[0]||(e[0]=[t("h1",null,"透传 Attributes",-1),t("p",null,"最常见的例子就是 class、style 和 id。",-1)])))}});export{r as default};

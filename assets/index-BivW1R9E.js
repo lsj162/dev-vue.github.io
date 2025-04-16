@@ -1,0 +1,1 @@
+import{y as n,m as a,z as o,A as r,B as t,C as s,D as d,E as c,G as m,c as p,a as u,o as i}from"./index-41JFHv3N.js";const v=Object.assign({name:"MyComponent"},{__name:"index",setup(l){return n(()=>{}),a(()=>{}),o(()=>{}),r(()=>{}),t(()=>{}),s(()=>{}),d(()=>{}),c(()=>{}),m(()=>{}),(_,e)=>(i(),p("div",null,e[0]||(e[0]=[u("h1",null,"生命周期钩子（组合模式）",-1)])))}});export{v as default};

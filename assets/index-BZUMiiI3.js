@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Component-C8wpe-mx.js","assets/_plugin-vue_export-helper-DlAUqK2U.js","assets/index-41JFHv3N.js","assets/index-Bi7JQ5fF.css"])))=>i.map(i=>d[i]);
+import{d as n,c as o,i as t,u as a,o as _,s,_ as r}from"./index-41JFHv3N.js";const p=n({name:"MyComponent",__name:"index",setup(c){const e=s(()=>r(()=>import("./Component-C8wpe-mx.js"),__vite__mapDeps([0,1,2,3])));return(i,m)=>(_(),o("div",null,[t(a(e))]))}});export{p as default};
