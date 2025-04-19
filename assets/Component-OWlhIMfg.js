@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as e,o as t}from"./index-41JFHv3N.js";const n={};function r(c,s,a,p,u,_){return t(),e("div",null,"异步组件")}const i=o(n,[["render",r]]);export{i as default};

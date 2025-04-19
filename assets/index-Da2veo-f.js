@@ -1,1 +1,0 @@
-import{c as t,a as s,F as o,b as l,o as a,t as m}from"./index-41JFHv3N.js";const g=Object.assign({name:"MyComponent"},{__name:"index",setup(i){const r=[{message:"Foo"},{message:"Bar"}];return(p,e)=>(a(),t("div",null,[e[0]||(e[0]=s("h1",null,"列表渲染",-1)),e[1]||(e[1]=s("p",null,"v-for",-1)),(a(),t(o,null,l(r,n=>s("li",{key:n},m(n.message),1)),64))]))}});export{g as default};

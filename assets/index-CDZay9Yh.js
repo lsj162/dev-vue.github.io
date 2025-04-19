@@ -1,1 +1,0 @@
-import{c as o,a as e,o as t}from"./index-41JFHv3N.js";const r=Object.assign({name:"MyComponent"},{__name:"index",setup(a){return(l,n)=>(t(),o("div",null,n[0]||(n[0]=[e("h1",null,"条件渲染",-1),e("p",null,"v-if",-1),e("p",null,"v-show",-1)])))}});export{r as default};

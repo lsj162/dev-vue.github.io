@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as e,a as r,t as s,o as c}from"./index-C8w4HLO5.js";const u={name:"MyComponent",data(){return{count:0}}};function a(p,t,i,l,o,m){return c(),e("div",null,[r("button",{onClick:t[0]||(t[0]=f=>o.count++)},"点击修改 "+s(o.count),1)])}const B=n(u,[["render",a]]);export{B as default};

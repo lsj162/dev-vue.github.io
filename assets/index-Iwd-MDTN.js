@@ -1,0 +1,1 @@
+import{d as o,L as c,c as n,o as s,t as r,u as _,i as m,M as p}from"./index-C8w4HLO5.js";const i=o({__name:"Component",setup(t){const e=c("message");return(a,l)=>(s(),n("div",null,r(_(e)),1))}}),d=Object.assign({name:"MyComponent"},{__name:"index",setup(t){return p("message","hello!!!!!!!"),(e,a)=>(s(),n("div",null,[m(i)]))}});export{d as default};

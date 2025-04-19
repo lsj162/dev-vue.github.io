@@ -1,1 +1,0 @@
-import{c as s,a as n,t,o as a}from"./index-41JFHv3N.js";const o="",u=Object.assign({name:"MyComponent"},{__name:"index",setup(l){return(r,e)=>(a(),s("div",null,[e[0]||(e[0]=n("h1",null,"模板语法",-1)),e[1]||(e[1]=n("p",null," Vue 使用一种基于 HTML 的模板语法，所有的 Vue 模板都是语法层面合法的 HTML。 ",-1)),n("span",null,"Message: "+t(o))]))}});export{u as default};

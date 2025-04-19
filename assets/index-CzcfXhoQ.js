@@ -1,0 +1,1 @@
+import{d as o,c as n,i as t,r,o as a}from"./index-C8w4HLO5.js";const p=o({name:"MyComponent",__name:"index",setup(c){return(s,_)=>{const e=r("router-view");return a(),n("div",null,[t(e)])}}});export{p as default};
